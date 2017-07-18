@@ -17,7 +17,6 @@ class FirstViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         print("NEW BRANCH ARTURO")
-        print("Fork Cesar")
     }
 
     override func didReceiveMemoryWarning() {
